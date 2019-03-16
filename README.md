@@ -6,6 +6,6 @@ Software yang digunakan:
 4. sublime text untuk hmtl css bootstap di nomor 7
 
 Installation (DEV) khusus nomor 6
-jalankan server mysql.
-buka mysqlworkbench dan masukan password.
-conncet mysql ke jupyter notebook
+1.jalankan server mysql.
+2.buka mysqlworkbench dan masukan password.
+3.conncet mysql ke jupyter notebook
