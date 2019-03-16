@@ -4,6 +4,7 @@ Software yang digunakan:
 2. mysql
 3. mysql workbench
 4. sublime text untuk hmtl css bootstap di nomor 7
+5. C++ untuk nomor 3
 
 Installation (DEV) khusus nomor 6
 1. jalankan server mysql.
